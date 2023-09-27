@@ -7,12 +7,15 @@ Lem-IPC is an automated game where bots, grouped into teams, strategically posit
 ----
 
 ![Demo GIF](./screenshots/ingame.png)
+
 *Playing*
 
 ![Demo GIF](./screenshots/finishG.png)
+
 *End game - Graphical*
 
 ![Demo GIF](./screenshots/finishL.png)
+
 *End game - Log mode*
 
 ## Features
